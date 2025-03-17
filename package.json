@@ -2,7 +2,7 @@
   "name": "math-operations-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kavya-3103.github.io/math-operations-frontend",
+"homepage": "https://kavya-3103.github.io/Assignment_Frontend",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
