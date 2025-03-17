@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/math-operations-frontend/static/css/main.7356e9c2.css",
-    "main.js": "/math-operations-frontend/static/js/main.ffb272bf.js",
-    "static/js/453.8b8c42e5.chunk.js": "/math-operations-frontend/static/js/453.8b8c42e5.chunk.js",
-    "index.html": "/math-operations-frontend/index.html",
-    "main.7356e9c2.css.map": "/math-operations-frontend/static/css/main.7356e9c2.css.map",
-    "main.ffb272bf.js.map": "/math-operations-frontend/static/js/main.ffb272bf.js.map",
-    "453.8b8c42e5.chunk.js.map": "/math-operations-frontend/static/js/453.8b8c42e5.chunk.js.map"
+    "main.css": "/Assignment_Frontend/static/css/main.7356e9c2.css",
+    "main.js": "/Assignment_Frontend/static/js/main.2ffacbb1.js",
+    "static/js/453.8b8c42e5.chunk.js": "/Assignment_Frontend/static/js/453.8b8c42e5.chunk.js",
+    "index.html": "/Assignment_Frontend/index.html",
+    "main.7356e9c2.css.map": "/Assignment_Frontend/static/css/main.7356e9c2.css.map",
+    "main.2ffacbb1.js.map": "/Assignment_Frontend/static/js/main.2ffacbb1.js.map",
+    "453.8b8c42e5.chunk.js.map": "/Assignment_Frontend/static/js/453.8b8c42e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7356e9c2.css",
-    "static/js/main.ffb272bf.js"
+    "static/js/main.2ffacbb1.js"
   ]
 }
